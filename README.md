@@ -3,7 +3,7 @@
 
 ## 📌 Descrição
 
-Jogo simples de combate desenvolvido na aula de Orientação de Objeto no Centro Universitário Senac - Santo Amaro , utilizando os conceitos de Programação Orientada a Objetos (POO).
+Jogo simples de combate desenvolvido na aula de Orientação de Objeto no Centro Universitário Senac - Santo Amaro, utilizando os conceitos de Programação Orientada a Objetos (POO).
 
 O jogador pode possuir diversas armas e enfrentar inimigos em batalhas, onde cada arma possui características próprias de ataque e comportamento.
 
